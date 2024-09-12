@@ -32,7 +32,6 @@ const prevImage = () => {
   <div class="container">
     <main>
       <h1 class="title">Flowers</h1>
-
       <section class="counter-section">
         <h2>Click Counter</h2>
         <p>Count: {{ counter }}</p>
@@ -73,7 +72,6 @@ html, body {
   justify-content: center;
   align-items: center;
   font-family: 'Poppins', sans-serif;
-  background-image: url('https://i.pinimg.com/564x/78/2f/9a/782f9a6143b92b020bb2cd8709098688.jpg');
   background-size: cover;
   background-position: center;
 }
